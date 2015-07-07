@@ -1,0 +1,11 @@
+{
+	"language": {
+		"properties": {
+			"Filename": {"type": "string", "index": "not_analyzed"},
+			"File Type": {"type": "string", "index": "not_analyzed"},
+			"Language1": {"type": "string", "index": "not_analyzed"},
+			"Language2": {"type": "string", "index": "not_analyzed"},
+			"Language3": {"type": "string", "index": "not_analyzed"}
+		}
+	}
+}
